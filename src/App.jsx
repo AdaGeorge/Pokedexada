@@ -1,7 +1,7 @@
 import { useSelector } from 'react-redux'
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import SignUp from './components/login/SignUp'
+import SignUp from './components/Login/SignUp'
 import PokedexHome from './components/pokedex/PokedexHome'
 import PokedexInfo from './components/PokedexInfo'
 import ProtectedRoutes from './components/ProtectedRoutes'
